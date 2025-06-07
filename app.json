@@ -18,9 +18,13 @@
     "android": {
       "package": "com.jonathanlimaa.weeklygym",
       "versionCode": 1
-},
-"extra": {
-  "eas": {
-    "projectId": "od4c84db-26b6-4c68-a27d-ceb5cb497ad6"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "od4c84db-26b6-4c68-a27d-ceb5cb497ad6"
+      }
+    },
+    "sdkVersion": "50.0.0",
+    "platforms": ["ios", "android"]
   }
 }
